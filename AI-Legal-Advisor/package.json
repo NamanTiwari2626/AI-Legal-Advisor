@@ -1,10 +1,4 @@
 {
-<<<<<<< HEAD
-  "devDependencies": {
-    "shadcn": "^4.5.0"
-  }
-}
-=======
   "name": "my-project",
   "version": "0.1.0",
   "private": true,
@@ -54,6 +48,7 @@
     "embla-carousel-react": "8.6.0",
     "input-otp": "1.4.2",
     "lucide-react": "^0.564.0",
+    "motion": "^12.38.0",
     "next": "16.2.0",
     "next-themes": "^0.4.6",
     "react": "^19",
@@ -81,4 +76,3 @@
     "typescript": "5.7.3"
   }
 }
->>>>>>> 31446d584dd13219b2a230d91b889009303e7d79

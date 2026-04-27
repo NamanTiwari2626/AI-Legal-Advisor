@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ─────────────────────────────────────────────────────────────────────────────
 # LAwBOTie – Root .gitignore
 # ─────────────────────────────────────────────────────────────────────────────
@@ -79,3 +80,19 @@ logs/
 # ── Misc ─────────────────────────────────────────────────────────────────────
 .cache/
 coverage/
+=======
+.cursor
+.next
+node_modules
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.development
+.env.test
+.env.production
+.env.local
+.env.development.local
+.env.test.local
+>>>>>>> 31446d584dd13219b2a230d91b889009303e7d79
